@@ -1,0 +1,26 @@
+{
+  "name": "mf-product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadanisrinaz/mf-product.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadanisrinaz/mf-product/issues"
+  },
+  "homepage": "https://github.com/nadanisrinaz/mf-product#readme",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "html-webpack-plugin": "^5.1.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
